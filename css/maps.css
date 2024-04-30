@@ -2449,7 +2449,7 @@ screen and (max-height:300px) {
 }
 
 .homepage-9 .homes-tag.featured {
-    background: #FF385C !important;
+    background: #e1bd57 !important;
 }
 
 .homepage-9 .portfolio .homes-price {
@@ -2533,7 +2533,7 @@ screen and (max-height:300px) {
 .homepage-9.homepage-4 a.button.border,
 a.button {
     width: 150px;
-    background: #FF385C;
+    background: #e1bd57;
     color: #fff !important;
 }
 
@@ -2643,7 +2643,7 @@ a.button {
 
 .homepage-9 .portfolio .homes-content h3 a:hover,
 .homepage-9 .blog-section .news-item h3:hover {
-    color: #FF385C;
+    color: #e1bd57;
 }
 
 .homepage-9 .portfolio .footer img {
@@ -2679,7 +2679,7 @@ section.feature-categories {
 }
 
 .homepage-9 .small-category-2-thumb {
-    width: 170px;
+    width: 250px;
     float: left;
     display: table;
     height: 150px;
@@ -2689,8 +2689,8 @@ section.feature-categories {
 }
 
 .homepage-9 .small-category-2-thumb img {
-    width: 170px;
-    height: 150px;
+    width: 250px;
+    height: 200px;
 }
 
 .homepage-9 .sc-2-detail {
@@ -2760,7 +2760,7 @@ section.feature-categories {
 
 .homepage-9 section.portfolio {
     padding: 4.6rem 0;
-    background: #FF385C;
+    background: #595959;
 }
 
 .homepage-9 .sec-title.discover h2 span,
@@ -2779,7 +2779,7 @@ section.feature-categories {
 }
 
 .homepage-9 .fd-1 .slick-dots li:after {
-    background: #FF385C;
+    background: #e1bd57;
 }
 
 .homepage-9 .portfolio .project-single {
@@ -2802,4 +2802,9 @@ section.feature-categories {
 
 .homepage-9 .portfolio.disc .project-single {
     border: 0px;
+}
+
+.about-us {
+    background: #fff;
+    padding: 6rem 0;
 }

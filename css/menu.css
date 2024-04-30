@@ -9,7 +9,7 @@
 }
 
 #logo img {
-    width: 60px;
+    width: 100px;
     height: auto;
     transform: translate3d(0, 0, 0);
 }
@@ -33,7 +33,7 @@ img {
 #header {
     position: relative;
     z-index: 999;
-    padding: 22px 0 80px 0;
+    padding: 10px 0 100px 0;
 }
 
 /* Header Widget */
@@ -86,15 +86,15 @@ header.fullwidth .container {
 
 .left-side {
     float: left;
-    width: 820px;
+    width: 920px;
     display: inline-block;
 }
 
 .right-side {
     float: right;
     width: 120px;
-    ;
-    margin-left: 30px;
+    margin-right: 75px;
+    margin-top: 20px;
     display: inline-block;
 }
 
@@ -412,7 +412,7 @@ a.button {
 #navigation {
     position: relative;
     display: block;
-    margin-top: 9px;
+    margin-top: 25px;
     margin-left: 40px;
 }
 
@@ -1519,7 +1519,7 @@ em.mm-counter+a.mm-fullsubopen+span {
     width: 50px;
     display: none;
     position: relative;
-    margin: 0 0 23px 0;
+    margin: 15px 0 24px 0;
     background-color: #eee;
     border-radius: 4px;
     cursor: pointer;
@@ -1651,6 +1651,7 @@ transform: rotate(-90deg);
     }
     #header {
         padding-top: 20px;
+        background-color: white;
     }
     #logo {
         position: absolute;
@@ -1658,9 +1659,8 @@ transform: rotate(-90deg);
         margin: 0 auto;
         margin-top: 3px;
         width: 35%;
-        text-align: center;
-        left: 0;
-        right: 0;
+        right: -20px;
+        top: 2px;
     }
     .homepage-5 #header.cloned {
         display: none;
