@@ -3659,7 +3659,7 @@ input[type=number] {
 }
 
 .footer-item__desc {
-    margin-top: 32px;
+    margin-top: 0px;
     max-width: 230px;
     color: hsl(var(--white));
     font-size: 1.125rem;
@@ -4061,7 +4061,7 @@ input[type=number] {
     display: inline-flex;
     gap: 24px;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 60px;
     border: 1px solid hsl(var(--white)/0.15);
     padding: 12px;
     border-radius: 5px;
