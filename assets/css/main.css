@@ -1370,8 +1370,9 @@ a:hover {
     color: #1d72f2;
 }
 
+
 img {
-    max-width: 100%;
+    max-width: 10%;
     height: auto;
 }
 
