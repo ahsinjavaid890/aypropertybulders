@@ -1370,16 +1370,17 @@ a:hover {
     color: #1d72f2;
 }
 
-
 img {
-    max-width: 10%;
+    max-width: 100%;
     height: auto;
 }
 
 select {
     cursor: pointer;
 }
-
+.logo-new{
+    width:140px;
+}
 ul,
 ol {
     padding: 0;
